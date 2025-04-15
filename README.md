@@ -38,7 +38,8 @@ Este projeto foi desenvolvido como parte da minha jornada de formação para me 
 
 ## 📁 Arquivo:
 
-Os dados analisados estão disponíveis no arquivo Excel deste repositório. Os nomes foram preservados fictícios para fins educacionais.
+Os dados analisados estão disponíveis aqui: 
+[Análise de Dados Escolares.xlsx](https://github.com/user-attachments/files/19751545/Analise.de.Dados.Escolares.xlsx)
 ![média de idades escolas gp e ms](https://github.com/user-attachments/assets/aff5feea-beec-42e0-8ced-75294820eb8a)
 ![distancia dos alunos das escolas](https://github.com/user-attachments/assets/cb92d594-8bfd-43fb-b51e-735bad925f80)
 ![distancia por generos](https://github.com/user-attachments/assets/7d387251-0332-4756-a4ef-8839e9fdf806)
