@@ -74,7 +74,7 @@ Masculino: 15 (10 longe + 5 muito longe)
 
 📌: Homens tendem a morar um pouco mais longe da escola do que mulheres.
 
-Notas Médias das Provas G1, G2 e G3
+📝 4. Notas Médias das Provas G1, G2 e G3
 
 | Prova | Escola GP | Escola MS | Média Geral |
 |-------|-----------|-----------|--------------|
