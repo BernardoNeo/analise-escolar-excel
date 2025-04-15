@@ -107,6 +107,6 @@ Os dados analisados estão disponíveis aqui:
 
 ## 🚀 Sobre mim
 
-Sou estudante em transição de carreira para a área de Análise de Dados, atualmente aprendendo Excel, Power BI e SQL com foco em conquistar minha primeira vaga como Analista de Dados Júnior. Este é um dos meus primeiros projetos aplicados com dados reais.
+Sou estudante em transição de carreira para a área de Análise de Dados, atualmente aprendendo Excel, Power BI, SQL, Python e R. com foco em conquistar minha primeira vaga como Analista de Dados Júnior. Este é um dos meus primeiros projetos aplicados com dados reais.
 
 📬 Me acompanhe no LinkedIn (https://www.linkedin.com/in/gabriel-bernardo-58b109323/) para ver mais da minha evolução!
