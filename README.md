@@ -27,14 +27,61 @@ Este projeto foi desenvolvido como parte da minha jornada de formação para me 
 
 ---
 
-## 💡 Principais Insights:
+## 📊 MÉDIAS E INSIGHTS DO PROJETO
+🧍‍♂️🧍‍♀️ 1. Idade Média dos Alunos por Escola
+Escola GP:
 
-- A idade média entre os alunos varia levemente entre as duas escolas.
-- Em geral, os alunos do gênero X (substituir pelo resultado real) moram mais longe/perto da escola.
-- A média das notas nas provas G1, G2 e G3 mostra uma tendência de [ex: melhoria ou queda no desempenho].
-- O cruzamento entre distância e notas pode indicar se a distância influencia no desempenho acadêmico.
+Feminino: 16,62 anos
 
----
+Masculino: 16,47 anos
+
+Média geral: 16,55 anos
+
+Escola MS:
+
+Feminino: 17,83 anos
+
+Masculino: 18,26 anos
+
+Média geral: 18,02 anos
+
+📌 Insight: Alunos da Escola MS são, em média, mais velhos que os da GP.
+
+🏠 2. Distância Média dos Alunos até a Escola
+Escola GP:
+
+Maior parte mora mais perto (69,9%), depois meio perto (24,2%), poucos longe ou muito longe.
+
+Escola MS:
+
+Mais equilibrado, com destaque para meio perto (50%), seguido de mais perto (30,9%).
+
+📌 Insight: Alunos da GP moram majoritariamente mais próximos da escola do que os da MS.
+
+ 3. Distância Média por Gênero
+Total de alunos:
+
+Feminino: 127
+
+Masculino: 114
+
+Em relação aos que moram longe ou muito longe:
+
+Feminino: 12 (10 longe + 2 muito longe)
+
+Masculino: 15 (10 longe + 5 muito longe)
+
+📌 Insight: Homens tendem a morar um pouco mais longe da escola do que mulheres.
+
+Notas Médias das Provas G1, G2 e G3
+
+Prova| |Escola GP|  |Escola MS|	     Média Geral
+G1	 |   |11,23|      |10,31|	         |10,99|
+G2	 |   |11,22|      |9,85|           |10,84|
+G3	 |   |11,00|      |9,38|           |10,55|
+📌 Insight: Alunos da Escola GP têm desempenho consistentemente superior nas três provas em comparação com os da MS.
+
+- - -
 
 ## 📁 Arquivo:
 
