@@ -39,6 +39,8 @@ Este projeto foi desenvolvido como parte da minha jornada de formação para me 
 ## 📁 Arquivo:
 
 Os dados analisados estão disponíveis no arquivo Excel deste repositório. Os nomes foram preservados fictícios para fins educacionais.
+![média de idades escolas gp e ms](https://github.com/user-attachments/assets/aff5feea-beec-42e0-8ced-75294820eb8a)
+
 
 ---
 
