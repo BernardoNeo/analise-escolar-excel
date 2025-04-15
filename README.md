@@ -29,6 +29,7 @@ Este projeto foi desenvolvido como parte da minha jornada de formação para me 
 
 ## 📊 MÉDIAS E INSIGHTS DO PROJETO
 🧍‍♂️🧍‍♀️ 1. Idade Média dos Alunos por Escola
+
 Escola GP:
 
 Feminino: 16,62 anos
