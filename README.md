@@ -40,6 +40,15 @@ Este projeto foi desenvolvido como parte da minha jornada de formação para me 
 
 Os dados analisados estão disponíveis no arquivo Excel deste repositório. Os nomes foram preservados fictícios para fins educacionais.
 ![média de idades escolas gp e ms](https://github.com/user-attachments/assets/aff5feea-beec-42e0-8ced-75294820eb8a)
+![distancia dos alunos das escolas](https://github.com/user-attachments/assets/cb92d594-8bfd-43fb-b51e-735bad925f80)
+![distancia por generos](https://github.com/user-attachments/assets/7d387251-0332-4756-a4ef-8839e9fdf806)
+![media prova g1](https://github.com/user-attachments/assets/1f1f6050-244a-427c-bb6c-afe1854d5731)
+![media prova g2](https://github.com/user-attachments/assets/36cddbc9-94d3-4737-8d35-d0939d8f4b15)
+![media prova g3](https://github.com/user-attachments/assets/40e28c0a-0461-4e13-89c2-54a62893831f)
+
+
+
+
 
 
 ---
