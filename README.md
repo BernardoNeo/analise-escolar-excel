@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte da minha jornada de formação para me 
 
 ---
 
-## 🔍 O que foi analisado:
+##  O que foi analisado:
 
 - Idade média dos alunos por escola
 - Distância média dos alunos até a escola
@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como parte da minha jornada de formação para me 
 
 ---
 
-## 🛠️ Ferramentas e Técnicas Utilizadas:
+##  Ferramentas e Técnicas Utilizadas:
 
 - **Microsoft Excel**
   - Importação e tratamento de dados
@@ -27,8 +27,8 @@ Este projeto foi desenvolvido como parte da minha jornada de formação para me 
 
 ---
 
-## 📊 MÉDIAS E INSIGHTS DO PROJETO
-🧍‍♂️🧍‍♀️ 1. Idade Média dos Alunos por Escola
+##  MÉDIAS E INSIGHTS DO PROJETO
+ 1. Idade Média dos Alunos por Escola
 
 Escola GP:
 
@@ -48,7 +48,7 @@ Média geral: 18,02 anos
 
 📌: Alunos da Escola MS são, em média, mais velhos que os da GP.
 
-🏠 2. Distância Média dos Alunos até a Escola
+ 2. Distância Média dos Alunos até a Escola
 Escola GP:
 
 Maior parte mora mais perto (69,9%), depois meio perto (24,2%), poucos longe ou muito longe.
@@ -59,7 +59,7 @@ Mais equilibrado, com destaque para meio perto (50%), seguido de mais perto (30,
 
 📌: Alunos da GP moram majoritariamente mais próximos da escola do que os da MS.
 
-🚻 3. Distância Média por Gênero
+ 3. Distância Média por Gênero
 Total de alunos:
 
 Feminino: 127
@@ -74,7 +74,7 @@ Masculino: 15 (10 longe + 5 muito longe)
 
 📌: Homens tendem a morar um pouco mais longe da escola do que mulheres.
 
-📝 4. Notas Médias das Provas G1, G2 e G3
+ 4. Notas Médias das Provas G1, G2 e G3
 
 | Prova | Escola GP | Escola MS | Média Geral |
 |-------|-----------|-----------|--------------|
